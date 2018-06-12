@@ -6,14 +6,14 @@
 	"setting": {
 		"urlCheck": false,
 		"es6": false,
-		"postcss": true,
-		"minified": true,
-		"newFeature": true
+		"postcss": false,
+		"minified": false,
+		"newFeature": false
 	},
 	"compileType": "game",
-	"libVersion": "2.0.4",
+	"libVersion": "2.0.9",
 	"appid": "touristappid",
-	"projectname": "%E7%A5%9E%E6%89%8B222",
+	"projectname": "shenshou",
 	"isGameTourist": true,
 	"condition": {
 		"search": {
