@@ -20,5 +20,6 @@ GameResult 游戏结果类
 
 GameRates 游关卡类
 
+test
 
 
